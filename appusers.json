@@ -1,0 +1,44 @@
+[
+    {
+      "id":1,
+      "username": "user1",
+      "password": "pass1",
+      "address" : "Isb"
+    },
+    {
+      "id":2,
+      "username": "user2",
+      "password": "pass2",
+      "address" : "Pindi"
+    },
+    {
+      "id":3,
+      "username": "user3",
+      "password": "pass3",
+      "address" : "Lahore"
+    },
+    {
+      "id":4,
+      "username": "user4",
+      "password": "pass4",
+      "address" : "Karachi"
+    },
+    {
+      "id":5,
+      "username": "user5",
+      "password": "pass5",
+      "address" : "Gilgit"
+    },
+    {
+      "id":6,
+      "username": "user6",
+      "password": "pass6",
+      "address" : "Skardu"
+    },
+    {
+      "id":7,
+      "username": "user7",
+      "password": "pass7",
+      "address" : "Chitral"
+    }
+  ]
